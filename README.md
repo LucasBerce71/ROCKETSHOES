@@ -11,7 +11,7 @@
 RocketShoes é uma aplicação de compras online. A aplicação Web e a aplicação mobile podem ser usadas pelos usuários que querem efetuarem compras de maneira simples e fácil.
 
 <div>
-    <img alt="divulg" src="./assets/images/divulg.PNG" width="200px" />
+    <img alt="divulg" src="./assets/images/divulg.png" width="200px" />
 </div>
 
 ## 🚀 Instalação e execução
