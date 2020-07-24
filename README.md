@@ -19,7 +19,8 @@ RocketShoes é uma aplicação de compras online. A aplicação Web e a aplicaç
 1. Faça um clone desse repositório;
 2. Entre na pasta rodando `cd rocketshoes-mobile`;
 3. Rode `yarn` para instalar as dependências;
-4. Rode `yarn start` para iniciar a aplicação.
+4 - Rode `json-server server.json -p 3333` para iniciar a API;
+5. Rode `yarn start` para iniciar a aplicação.
 
 ## 🤔 Como contribuir
 
